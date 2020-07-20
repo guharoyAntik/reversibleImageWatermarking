@@ -1,0 +1,10 @@
+{
+    "codeCellConfig": {
+      "fontFamily": "hasklig",
+      "fontSize": 14
+    },
+        
+    "markdownCellConfig": {
+      "fontFamily": "Lucida"
+    }
+}

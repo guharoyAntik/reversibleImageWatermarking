@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\Antik\\Desktop\\ml\\titanicSurvival",
+  "password": false,
+  "pid": 15548,
+  "port": 8888,
+  "secure": false,
+  "token": "3ddbd49d8857b2b77986ea7aa8007f8cfcdd8c80bfa7027f",
+  "url": "http://localhost:8888/"
+}
